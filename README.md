@@ -1,0 +1,2 @@
+# BangciptoS
+safelink.js
